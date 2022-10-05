@@ -21,5 +21,8 @@ To know that which place ordered which product and which product is most and lea
 2. Least Ordered is product KADUMANGA as 1 unit only  by noida UP and 2nd last is dry fruit as it is ordered only by MALAPURRAM only 2 units   
 3. Least products are ordered from Bangalore and that too only prawns with quantity of 1
 4. MALAPURRAM ordered most variety of food that is  in total 6 items of varying quantity some are fish,prawns,mango,lemon,dry fruit and NOIDA-UP also ordered 6 items some are  prawns,lemon,king fish, dryfruits and Kadumanga of varying quantity
+
+PLOT_4_scatter_plot
+most products are ordered between 15/06/2022and 01/07/2022
  
 
